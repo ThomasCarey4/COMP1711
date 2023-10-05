@@ -1,0 +1,20 @@
+13,Eminem,Lose Yourself,2002
+15,Usher,Yeah!,2004
+19,Leona Lewis,Bleeding Love,2008
+22,Rihanna & Jay-Z,Umbrella,2007
+36,Eminem,Without Me,2002
+45,OutKast,Hey Ya!,2003
+48,Katy Perry,I Kissed A Girl,2008
+52,Shakira & Wyclef Jean,Hips don't lie,2006
+53,50 Cent,In Da Club,2003
+54,Kylie Minogue,Can't Get You Out of My Head,2001
+55,The Black Eyed Peas,Where is the Love?,2003
+59,Lady GaGa,Poker Face,2009
+62,Justin Timberlake,Sexyback,2006
+63,Madonna,Hung Up,2005
+69,Shakira,Whenever Wherever,2002
+78,Flo-Rida & T-Pain,Low,2008
+87,Fergie,Big Girls Don't Cry,2007
+93,Nelly & Kelly Rowland,Dilemma,2002
+95,Beyonce,Crazy in Love,2003
+96,The Black Eyed Peas,I Gotta Feeling,2009
