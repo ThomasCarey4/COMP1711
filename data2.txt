@@ -1,0 +1,51 @@
+50,Elvis Presley,It's Now Or Never,1960
+51,No Doubt,Don't Speak,1997
+52,Shakira & Wyclef Jean,Hips don't lie,2006
+53,50 Cent,In Da Club,2003
+54,Kylie Minogue,Can't Get You Out of My Head,2001
+55,The Black Eyed Peas,Where is the Love?,2003
+56,The Rolling Stones,Angie,1973
+57,Mungo Jerry,In the Summertime,1970
+58,Vaughn Monroe,(Ghost) Riders in the Sky,1949
+59,Lady GaGa,Poker Face,2009
+60,Ace of Base,The Sign,1994
+61,Carl Douglas,Kung Fu Fighting,1974
+62,Justin Timberlake,Sexyback,2006
+63,Madonna,Hung Up,2005
+64,Elvis Presley,Jailhouse Rock,1957
+65,The Beatles,Help!,1965
+66,Joan Jett & The Blackhearts,I Love Rock 'n' Roll,1982
+67,Ricky Martin,Livin' La Vida Loca,1999
+68,The Monkees,I'm a Believer,1967
+69,Shakira,Whenever Wherever,2002
+70,Rihanna & Calvin Harris,We Found Love,2011
+71,Frank Sinatra,Strangers in the Night,1966
+72,Bruce Springsteen,Streets of Philadelphia,1994
+73,The Righteous Brothers,Unchained Melody,1965
+74,All-4-One,I Swear,1994
+75,Glenn Miller,In the Mood,1940
+76,Lou Bega,Mambo No 5 (A Little Bit of ...),1999
+77,Doris Day,Que sera sera (Whatever will be will be),1956
+78,Flo-Rida & T-Pain,Low,2008
+79,Nat King Cole,Mona Lisa,1950
+80,Terry Jacks,Seasons in the Sun,1974
+81,Culture Club,Karma Chameleon,1983
+82,Aerosmith,I Don't Want to Miss a Thing,1998
+83,Blondie,Heart of Glass,1979
+84,Boyz II Men,End of the Road,1992
+85,The Fugees,Killing Me Softly With His Song,1996
+86,Tony Orlando & Dawn,Tie a Yellow Ribbon 'round the Old Oak Tree,1973
+87,Fergie,Big Girls Don't Cry,2007
+88,Shocking Blue,Venus,1970
+89,Eagles,Hotel California,1977
+90,Bing Crosby,Swinging On a Star,1944
+91,The Beatles,All You Need is Love,1967
+92,Chubby Checker,The Twist,1960
+93,Nelly & Kelly Rowland,Dilemma,2002
+94,The Beatles,She Loves You,1964
+95,Beyonce,Crazy in Love,2003
+96,The Black Eyed Peas,I Gotta Feeling,2009
+97,John Lennon,(Just Like) Starting Over,1980
+98,Culture Club,Do You Really Want to Hurt Me?,1982
+99,Brandy & Monica,The Boy is Mine,1998
+100,Madonna,Like a Prayer,1989
