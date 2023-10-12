@@ -1,12 +1,13 @@
 #include <stdio.h>
 
 int main() {
-    int a;
+    int a [10];
 
-    for (a = 0; a < 5; ++a) {
-        printf ("a is equal to %d\n", a);
+    for (int count = 0; count < 10; ++count){
+        a[count] = count * 10 + count;
     }
-    printf ("I've finished the loop and a is equal to %d\n", a);
-    
+
+    printf("The first and second elements are %d and %d\n", a[0], a[1]);
+    printf("Or, via pointers, %d and %d\n", *a, *(a + 1));
     return 0;
 }
