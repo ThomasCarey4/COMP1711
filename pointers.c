@@ -4,9 +4,7 @@ int test(int *add) {
     printf("%p\n", add);
     return 0;
 }
-
 int main() {
-    // Your code here
     int num = 10;
     printf("num is %d\n", num); // Returns 10
     test(&num);
