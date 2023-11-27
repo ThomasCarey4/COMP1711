@@ -9,5 +9,9 @@ int main() {
     test(array); // Returns 1
     test(array + 1); // Returns 2
     test(array + 2); // Returns 3
+    int *ptr = array;
+    test(++ptr); // Returns 4
+    test(ptr++); // Returns 4
+    test(ptr); // Returns 5
     return 0;
 }
