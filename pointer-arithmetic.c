@@ -8,6 +8,6 @@ int main() {
     printf("%p\n", arr); // Returns memory address
     test(arr); // Returns 1
     test(arr + 1); // Returns 2
-    test(&arr[2]); // Returns 3
+    test(arr + 2); // Returns 3
     return 0;
 }
